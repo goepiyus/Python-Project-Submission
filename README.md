@@ -39,6 +39,7 @@ The following Python libraries are used in this project:
 - requests- Making HTTP requests to the Open Library API 
 - pandas-Data manipulation, cleaning, and analysis 
 - time-Adding delays between API requests 
+
 My project is a book suggestion app that integrates various concepts such as Data collection, data processing, user interaction, error handling and code quality.
 I create my project using Jupyter Notebook as an IDE.
 
